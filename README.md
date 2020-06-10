@@ -2,6 +2,8 @@
 
 [![Build Status](https://lightalex.visualstudio.com/AZ400_PartsUnlimited/_apis/build/status/alexchk.ContosoAir?branchName=master)](https://lightalex.visualstudio.com/AZ400_PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 
+![Build Status](https://lightalex.visualstudio.com/AZ400_PartsUnlimited/_apis/build/status/alexchk.ContosoAir?branchName=master)
+
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
